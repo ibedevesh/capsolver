@@ -1,0 +1,4 @@
+# Core dependencies
+playwright>=1.40.0
+faster-whisper>=1.0.0
+requests>=2.31.0
