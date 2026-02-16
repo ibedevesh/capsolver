@@ -2,6 +2,8 @@
 
 Local reCAPTCHA v2 solver using Whisper. No API keys, runs entirely on your machine.
 
+https://github.com/ibedevesh/capsolver/raw/main/demo.mp4
+
 ## How it works
 
 reCAPTCHA v2 has an audio challenge. We click the captcha, switch to audio mode, download the audio, transcribe with Whisper, and submit. Near 100% success rate.
