@@ -2,7 +2,7 @@
 
 Local reCAPTCHA v2 solver using Whisper. No API keys, runs entirely on your machine.
 
-https://github.com/ibedevesh/capsolver/raw/main/demo.mp4
+![Demo](demo.gif)
 
 ## How it works
 
